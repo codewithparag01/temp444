@@ -1,0 +1,13 @@
+<DOCTYPE html>
+<html>
+<head>
+         <title> uses of varius tags </title>
+</head>
+<body style="background:red">
+        <h1 style="color:green; background-color:blue"> this is heading tag </h1>
+        <p style=" color: red; background-color:pink; font-size:150%"> this is paragraph tag </p>
+       <marquee style="color:red; background-color:green;font-size:100px"><b>this is marquee tag </b></marquee>
+       <a href=htpp://www.google.com/" target="_blank"> this is hyperlink tag </a><br>
+       <img src="D:\pictures\IMG_20210524_205419" alt="prem img">
+</body>
+</html>
